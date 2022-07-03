@@ -58,7 +58,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":21,
          "id":69,
-         "name":"from office",
+         "name":"from-office",
          "opacity":1,
          "properties":[
                 {
@@ -518,7 +518,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/IR-Office-1\/map.jason#entry-from-tree-house"
+                 "value":"\/IR-Office-1\/map.jason"
                 }],
          "type":"tilelayer",
          "visible":true,
