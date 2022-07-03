@@ -102,7 +102,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"...\/IR-Office-1\/map.json#entry-from-tree-house"
+                 "value":"IR-Office-1\/map.json#entry-from-tree-house"
                 }],
          "type":"tilelayer",
          "visible":true,
